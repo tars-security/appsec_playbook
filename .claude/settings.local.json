@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep *)",
+      "Bash(git -C /home/tars/hack_repo/appsec_playbook status)",
+      "Bash(git config *)"
+    ]
+  }
+}
